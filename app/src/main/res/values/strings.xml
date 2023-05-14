@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Medicare Service</string>
+
+    <!-- stf    -->
+    <string name="stfButtonText">أعد المحاولة</string>
+    <string name="stfEmptyMessage">اوبس، لا يوجد شيء هنا</string>
+    <string name="stfErrorMessage">لقد حدث خطأ، رجاء أعد المحاولة لاحقا</string>
+    <string name="stfLoadingMessage">جار التحميل..</string>
+    <string name="stfLocationOffMessage">الرجاء تمكين خدمات الموقع</string>
+    <string name="stfOfflineMessage">يرجى التحقق من اتصالك بالانترنت</string>
+
+    <!-- base Strings  -->
+    <string name="back">رجوع</string>
+    <string name="next">متابعة</string>
+    <string name="alert">تنبيه</string>
+    <string name="please_wait">انتظر من فضلك</string>
+    <string name="hide">إخفاء</string>
+    <string name="edit">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="remove">حذف</string>
+    <string name="cancel">الغاء</string>
+    <string name="ok">نعم</string>
+    <string name="save">حفظ</string>
+    <string name="edit_current_category">تعديل بيانات التصنيف</string>
+
+    <!-- bottom nav menu   -->
+    <string name="posts">المنشورات</string>
+    <string name="chats">المحادثات</string>
+    <string name="categories">المواضيع</string>
+    <string name="interests">الاهتمامات</string>
+    <string name="settings">الاعدادات</string>
+
+    <!-- errors messages   -->
+    <string name="terms_error_message">يجب الموافقة على سياسة الخصوصية</string>
+    <string name="error">حدث خطا ما!</string>
+    <string name="password_not_match">كلمة المرور غير متطابقة</string>
+    <string name="back_exit">اضغط مرة أخرى للخروج.</string>
+    <string name="invalid_field">لا يمكن ترك هذا الحقل فارغا</string>
+    <string name="invalid_email">يرجى إدخال البريد الإلكتروني الصحيح</string>
+    <string name="invalid_pin_code">يجب أن يتكون رمز من 6 أرقام</string>
+    <string name="invalid_password">يجب أن تتكون كلمة المرور اكبر من 6 احرف</string>
+    <string name="check_internet_connection">يرجى التحقق من اتصالك بالإنترنت</string>
+    <!-- messages   -->
+    <string name="add_category_successfully">تم إضافة موضوع جديد بنجاح</string>
+    <string name="edit_category_successfully">تم تعديل الموضوع بنجاح</string>
+    <string name="add_post_successfully">تم إضافة منشور جديد بنجاح</string>
+    <string name="edit_post_successfully">تم تعديل المنشور بنجاح</string>
+    <string name="remove_message">هل انت متاكد من الحذف؟</string>
+    <string name="remove_category_successfully">تم حذف الموضوع بنجاح</string>
+    <string name="remove_post_successfully">تم حذف المنشور بنجاح</string>
+    <string name="profile_update_successfully">تم تحديث الملف الشخصي بنجاح</string>
+
+    <!-- auth    -->
+    <string name="email">إيميل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="signup">تسجيل حساب</string>
+    <string name="register">تسجيل</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="father_name">اسم الاب</string>
+    <string name="family_name">اسم العائلة</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="address">العنوان</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="account_type">نوع الحساب</string>
+
+    <string name="welcome">أهلا وسهلا بك</string>
+    <string name="you_do_not_have_account">ليس لديك حساب ؟</string>
+    <string name="agree_terms">موافق على شروط التسجيل؟</string>
+    <string name="registration_terms">شروط التسجيل</string>
+    <string name="choose_account_type">إختر نوع الحساب</string>
+    <string name="patient">مريض</string>
+    <string name="doctor">دكتور</string>
+    <string name="search">البحث</string>
+    <string name="subscribe">إشترك</string>
+    <string name="un_subscribe">الغاء الإشترك</string>
+    <string name="un_subscribe_group">تم الغاء الإشترك بمجموعة</string>
+    <string name="subscribe_group">تم الإشترك بمجموعة</string>
+    <string name="message_doctor">مراسلة الدكتور</string>
+
+    <string name="post_details">تفاصيل المنشور</string>
+    <string name="posts_">منشورات</string>
+
+    <!-- Add category   -->
+    <string name="add_new_category">إضافة موضوع جديد</string>
+    <string name="edit_category">تعديل موضوع</string>
+    <string name="category_title">عنوان الموضوع</string>
+    <string name="category_description">وصف الموضوع</string>
+    <!-- Add Post   -->
+    <string name="add_new_post">إضافة منشور جديد</string>
+    <string name="edit_post">تعديل منشور</string>
+    <string name="post_title">عنوان المنشور</string>
+    <string name="post_description">وصف المنشور</string>
+    <string name="doctor_name">اسم الدكتور</string>
+    <!-- Setting    -->
+    <string name="my_profile">ملفي الشخصي</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="logout_message">هل انت متاكد من تسجيل الخروج؟</string>
+    <string name="online">اونلاين</string>
+    <string name="write_here">اكتب هنا</string>
+    <string name="upload_file">ارفق ملف</string>
+    <string name="contains_attachment">يحتوي على مرفق</string>
+</resources>

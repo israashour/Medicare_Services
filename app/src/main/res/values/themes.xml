@@ -1,0 +1,65 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MedicareService" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ImageView.circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ImageView.rounded_10" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="ImageView.rounded_5" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5%</item>
+    </style>
+
+    <style name="NavigationViewStyleTextBold">
+        <item name="android:fontFamily">@font/cairo_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- TODO :  Calendar  Style   -->
+    <style name="Theme.MedicareService.StyleMaterialCalendar" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorAccent">@color/primary</item>
+        <item name="android:fontFamily">@font/cairo_regular</item>
+        <item name="buttonBarPositiveButtonStyle">
+            @style/Theme.MedicareService.MaterialCalendar.TextButton
+        </item>
+        <item name="buttonBarNegativeButtonStyle">
+            @style/Theme.MedicareService.MaterialCalendar.TextButton
+        </item>
+    </style>
+
+    <style name="Theme.MedicareService.MaterialCalendar.TextButton" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/primary</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
+
+    <style name="stfMessage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/stfImageColor</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">@font/cairo_regular</item>
+    </style>
+
+</resources>

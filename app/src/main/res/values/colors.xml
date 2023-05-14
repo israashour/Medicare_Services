@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="stfImageColor">#0B8FAC</color>
+
+    <color name="colorPrimary">#0B8FAC</color>
+    <color name="colorSecondary">#0B8FAC</color>
+    <color name="colorStatusBar">#0B8FAC</color>
+<!--    <color name="colorSecondary">#7BC1B7</color>-->
+
+    <color name="primary">#0B8FAC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#db3b21</color>
+    <color name="hint_color">#0B8FAC</color>
+<!--    <color name="dark_gray">#242527</color>-->
+<!--    <color name="background_gray">#18191b</color>-->
+    <color name="background">#407BC1B7</color>
+    <color name="background_item">#7BC1B7</color>
+    <color name="color_et_background">#33E0E7FF</color>
+
+</resources>

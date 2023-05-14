@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493630088450",
+    "project_id": "medicare-services-5ea0f",
+    "storage_bucket": "medicare-services-5ea0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493630088450:android:6d0508bad81e865a314e1b",
+        "android_client_info": {
+          "package_name": "com.medicare_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493630088450-m16dtihempo6rosb3hv6l44ua9ufub35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPoSwNsF0DWD5HgTNlBVPbLO3ZLXiq1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493630088450-m16dtihempo6rosb3hv6l44ua9ufub35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
